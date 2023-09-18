@@ -43,4 +43,4 @@ while True:
         print(f"Erro ao enviar o e-mail: {str(e)}")
 
     # Esperar 5 minutos antes de enviar o próximo e-mail (300 segundos)
-    time.sleep(300)
+    time.sleep(60)
