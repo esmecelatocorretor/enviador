@@ -7,7 +7,7 @@ import time
 smtp_server = 'smtp.live.com'  # Ou 'smtp-mail.outlook.com'
 smtp_port = 587
 username = 'esmecelato@hotmail.com'
-password = 'kPEn6xFZwfKCEE'
+password = 'kPEn6xFZwfKCEE4'
 
 # Ler a lista de e-mails do arquivo CSV
 with open('lista_emails.csv', 'r') as file:
