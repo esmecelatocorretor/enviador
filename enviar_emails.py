@@ -27,7 +27,10 @@ while True:
             # Preencher o corpo do e-mail
             subject = 'Apresentação - Corretor de Imóveis Edson Esmecelato'
             body = '''
-            Seu corpo de e-mail aqui...
+            Ola, Meu nome é Edson V.Esmecelato, sou de Terra Roxa Pr, Corretor de Imóveis Crici 44628,  quero convidar
+            voce a visitar meu Site onte tem varia oportunidade de Negocios Imoviliários, tais com Casa, Terrenos,
+            Sitios e Outros., endereço:  https://www.esmecelato.com.br/, desde já agradeço  abaixo estão os demais 
+            endereços de Contato fone (44)9 99061434.
             '''
 
             message = f'{body}'
