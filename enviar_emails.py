@@ -28,9 +28,9 @@ while True:
             subject = 'Apresentação - Corretor de Imóveis Edson Esmecelato'
             body = '''
             Ola, Meu nome é Edson V.Esmecelato, sou de Terra Roxa Pr, Corretor de Imóveis Crici 44628,  quero convidar
-            voce a visitar meu Site onte tem varia oportunidade de Negocios Imoviliários, tais com Casa, Terrenos,
-            Sitios e Outros., endereço:  https://www.esmecelato.com.br/, desde já agradeço  abaixo estão os demais 
-            endereços de Contato fone (44)9 99061434.
+            voce a visitar meu Site:  https://www.esmecelato.com.br/, onde tem vária oportunidade de Negócios Imobiliários,
+            tais como: Casa, Terrenos, Sitios e Outros, desde já agradeço  abaixo estão os demais 
+            endereços de Contato fone (44) 9 99061434.
             '''
 
             message = f'{body}'
