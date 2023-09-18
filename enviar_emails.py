@@ -3,7 +3,7 @@ import csv
 import random
 import time
 
-# Configuração SMTP para o Hotmail/Outlook
+# Configuração SMTP para o Hotmail/Outlookk
 smtp_server = 'smtp.live.com'  # Ou 'smtp-mail.outlook.com'
 smtp_port = 587
 username = 'esmecelato@hotmail.com'
