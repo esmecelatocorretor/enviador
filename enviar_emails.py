@@ -7,7 +7,7 @@ import time
 smtp_server = 'smtp.mail.yahoo.com'
 smtp_port = 587
 username = 'esmecelato@yahoo.com.br'
-password = 'caboedson7'
+password = 'caboedson7XXXX'
 
 # Ler a lista de e-mails do arquivo CSV
 with open('lista_emails.csv', 'r') as file:
